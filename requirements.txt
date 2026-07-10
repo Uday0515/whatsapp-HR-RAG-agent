@@ -6,3 +6,5 @@ python-dotenv
 flask
 fastapi
 uvicorn
+twilio
+python-multipart
