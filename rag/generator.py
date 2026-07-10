@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 import google.generativeai as genai
-from retriever import retrieve
+from rag.retriever import retrieve
 
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))

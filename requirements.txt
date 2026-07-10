@@ -4,3 +4,5 @@ pdfplumber
 langchain-text-splitters
 python-dotenv
 flask
+fastapi
+uvicorn
