@@ -1,0 +1,6 @@
+google-generativeai
+chromadb
+pdfplumber
+langchain-text-splitters
+python-dotenv
+flask
